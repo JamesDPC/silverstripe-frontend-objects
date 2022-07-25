@@ -4,8 +4,6 @@ namespace Symbiote\FrontendObjects\Page;
 
 use Page;
 
-use Object;
-
 use Symbiote\MultiValueField\Fields\MultiValueTextField;
 
 use SilverStripe\Core\Extensible;
